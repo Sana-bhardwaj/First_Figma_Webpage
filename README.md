@@ -2,6 +2,7 @@
 
 A responsive landing page built using HTML5 and CSS3, created from a Figma design layout.
 This project represents my first complete UI implementation from design to code.
+
 ------------------------------------------------------------------------------------------------------
 🚀 Project Overview
 
@@ -23,14 +24,23 @@ The website includes a hero section, learning roadmap, CTA section, and footer �
 ✨ Features
 
 ✅ Responsive design (Desktop + Mobile)
+
 ✅ Modern UI layout
+
 ✅ Navigation bar with CTA buttons
+
 ✅ Hero section with form input
+
 ✅ Before vs After learning comparison cards
+
 ✅ Personalized learning roadmap section
+
 ✅ Call-to-Action section
+
 ✅ Structured footer layout
+
 ✅ Mobile-first responsive adjustments
+
 ------------------------------------------------------------------------------------------------------
 🛠️ Built With
 
@@ -132,6 +142,7 @@ Performance optimization
 🙋‍♂️ Author
 
 Name: Sana 
+
 Enrollment number: 2502140066
 
 GitHub: https://github.com/Sana-bhardwaj
@@ -145,4 +156,5 @@ This project is created for learning and educational purposes only.
 
 ------------------------------------------------------------------------------------------------------
 ⭐ If you like this project, consider giving it a star!
+
 ------------------------------------------------------------------------------------------------------
