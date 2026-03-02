@@ -116,14 +116,6 @@ Double-click index.html
 OR open with Live Server in VS Code.
 
 ------------------------------------------------------------------------------------------------------
-📸 Preview
-
-(Add screenshots here after uploading project images)
-
-Example:
-![Homepage Preview](assets/preview.png)
-
-------------------------------------------------------------------------------------------------------
 🔮 Future Improvements
 
 Add JavaScript interactivity
