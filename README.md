@@ -107,7 +107,7 @@ Component-based styling approach
 
 Clone the repository:
 
-git clone https://github.com/your-username/programming-pathshala-webpage.git
+git clone https://github.com/Sana-bhardwaj/First_Figma_Webpage.git
 
 Open the folder.
 
